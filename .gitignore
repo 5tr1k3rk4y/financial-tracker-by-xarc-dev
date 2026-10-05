@@ -1,0 +1,11 @@
+# Build executables
+*.exe
+
+# Build directories
+build/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
